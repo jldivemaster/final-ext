@@ -1,0 +1,12 @@
+/* Styling for elements inside iframe */
+
+/* src/content.css */
+.my-extension {
+  min-height: 100vh;
+   padding: 20px;
+   border-style: double;
+   border-color: #00BCE1;
+}
+.my-extension h4 {
+    color: blue;
+}
